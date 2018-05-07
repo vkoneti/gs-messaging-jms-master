@@ -1,0 +1,7 @@
+hello\EmailProducer.class
+hello\ActiveMQConfiguration.class
+hello\Receiver.class
+hello\GreetingProducer.class
+hello\Application.class
+hello\Email.class
+hello\Greeting.class
